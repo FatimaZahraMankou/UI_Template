@@ -1,0 +1,47 @@
+# Fichiers système Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers système MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dossiers OneDrive (si nécessaire)
+.OneDrive*
+
+# Fichiers et dossiers de logs
+logs/
+*.log
+
+# Cache système et fichiers temporaires
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Fichiers de configuration utilisateur
+*.suo
+*.ntvs*
+*.njsproj
+*.sln*
+*.user
+
+# Fichiers spécifiques à Unity (si projet Unity)
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+ProjectSettings/
+UserSettings/
+
+# Autres fichiers de compilation
+*.csproj
+*.sln
+*.exe
+*.dll
+*.pdb
